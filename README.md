@@ -21,10 +21,6 @@ Sono un programmatore specializzato nello sviluppo di bot, software e web app. A
 
 - Email: [talkchainsrl@gmail.copm](mailto:tuoindirizzoemail@example.com)
 
-## 📈 Statistiche GitHub
-
-![Le tue statistiche GitHub](https://github-readme-stats.vercel.app/api?username=iltuoutente&show_icons=true&theme=radical)
-
 ## ✨ Ispirazioni
 
 Mi ispiro a progetti open-source e a comunità di sviluppo attive, cercando sempre di contribuire e imparare.
