@@ -10,6 +10,10 @@ Sono un programmatore specializzato nello sviluppo di bot, software e web app. A
   - PHP 🐘
   - Java ☕
   - JavaScript ✨
+  - React
+  - Node js
+  - mySQL
+  - NOSQL
 
 ## 🚀 Cosa Sviluppo
 
@@ -19,7 +23,7 @@ Sono un programmatore specializzato nello sviluppo di bot, software e web app. A
 
 ## 📫 Come Contattarmi
 
-- Email: [talkchainsrl@gmail.copm](mailto:tuoindirizzoemail@example.com)
+- Email: [talkchainsrl@gmail.com(mailto:talkchainsrl@gmail.com)
 
 ## ✨ Ispirazioni
 
